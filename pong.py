@@ -30,7 +30,7 @@ right_pad.goto(400, 0)
 
 # Ball of circle shape 
 hit_ball = turtle.Turtle() 
-hit_ball.speed(40) 
+hit_ball.speed(80) 
 hit_ball.shape("circle") 
 hit_ball.color("red") 
 hit_ball.penup() 
